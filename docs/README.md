@@ -1,7 +1,7 @@
 
 # Retail Sales, Profitability & Pricing Strategy Analysis
 
--------------------------- **Analyzing discount impact, margin erosion, and product concentration using SQL & Tableau**----------------------------
+------------------ **Analyzing discount impact, margin erosion, and product concentration using SQL & Tableau**-------------------
 
 ## Project Overview
 This project analyzes retail sales and profitability across regions and product categories to identify margin leakage, discount inefficiencies, and product concentration risk.
