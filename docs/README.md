@@ -1,7 +1,7 @@
 
 # Retail Sales, Profitability & Pricing Strategy Analysis
 
-**Subtitle: **Analyzing discount impact, margin erosion, and product concentration using SQL & Tableau**
+**Subtitle: Analyzing discount impact, margin erosion, and product concentration using SQL & Tableau**
 
 🔗 **Interactive Tableau Dashboard:**
 [https://public.tableau.com/your-link-here](https://public.tableau.com/views/RetailPerformanceandPricingStrategyAnalysis/ProductProfitabilityAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
